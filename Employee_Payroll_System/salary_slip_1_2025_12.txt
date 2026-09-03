@@ -1,0 +1,11 @@
+=== Salary Slip ===
+Employee ID: 1
+Name: Sahil Varma
+Designation: Software Engineer
+Month/Year: 12/2025
+
+Gross Salary: 90000.00
+Total Deductions: 13650.00
+Net Salary: 76350.00
+
+Generated at: 2025-10-05 19:45:06.0

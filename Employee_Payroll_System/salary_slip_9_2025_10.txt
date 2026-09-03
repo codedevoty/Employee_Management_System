@@ -1,0 +1,11 @@
+=== Salary Slip ===
+Employee ID: 9
+Name: Divakar
+Designation: Ui/UX Desginer
+Month/Year: 10/2025
+
+Gross Salary: 4500.00
+Total Deductions: 225.00
+Net Salary: 4275.00
+
+Generated at: 2026-09-03 15:30:05.0

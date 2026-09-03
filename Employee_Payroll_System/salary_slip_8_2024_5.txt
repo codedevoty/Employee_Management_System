@@ -1,0 +1,11 @@
+=== Salary Slip ===
+Employee ID: 8
+Name: Farhan
+Designation: Content Creator
+Month/Year: 5/2024
+
+Gross Salary: 95000.00
+Total Deductions: 12950.00
+Net Salary: 82050.00
+
+Generated at: 2025-11-06 11:28:17.0

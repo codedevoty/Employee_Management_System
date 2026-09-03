@@ -1,0 +1,11 @@
+=== Salary Slip ===
+Employee ID: 3
+Name: Arun Gupta
+Designation: Cricketer
+Month/Year: 8/2021
+
+Gross Salary: 67000.00
+Total Deductions: 8950.00
+Net Salary: 58050.00
+
+Generated at: 2025-10-16 10:36:31.0
